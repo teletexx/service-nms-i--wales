@@ -1,0 +1,56 @@
+DE,Regional Weather
+CT,30,T
+PN,40201
+SC,0001
+PS,c000
+OL,0,XXXXXXXXECIMSBNMPServer5
+OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
+OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
+OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
+OL,4,    WALES    T//-,,/,,-.-.-.-.-.,,-.-.//
+OL,6,CTHIS EVENING AND TONIGHT
+OL,8,BMostly cloudy this S5CSTATISTICS       
+OL,9,Bevening, though    S5C 
+OL,10,Bwith a few clear   S5G   Maximum       
+OL,11,Bspells. A band of  S5GTemperatureC15C 
+OL,12,Brain moving south  S5G                 
+OL,13,Bacross the region  S5G   Minumum       
+OL,14,Bduring the second  S5GTemperatureC6C 
+OL,15,Bhalf of the night, S5C                 
+OL,16,Bturning patchier   S5G
+OL,17,Btowards dawn. ClearS5G
+OL,18,Bspells to end the  S5G                 
+OL,19,Bnight across north S5G
+OL,20,BWales.             S5G
+OL,21,                                    1/2 
+OL,22,D]GWALES CWeatherG402CTVG600 CTravelG437
+OL,23,D]CSportG390C AddressG170 CMAIN MENUG100
+OL,24,AOutlookB NIrelTravC Trav HeadFMain Menu
+FL,403,437,430,100,8FF,199
+PN,40202
+SC,0002
+PS,c000
+OL,0,XXXXXXXXECIMSBNMPServer5
+OL,1,Wh,,lh,,lh,,lT||,<<l,,|,,|,,<l<l,,<,,l||
+OL,2,Wj 1nj 1nj =nT]Sjj5shw{4k7juz5sjw{%  
+OL,3,W*,,.*,,.*,,.T]Sozz%pj5j5j5j5j5pj5j5  
+OL,4,    WALES    T//-,,/,,-.-.-.-.-.,,-.-.//
+OL,6,CFRIDAY
+OL,8,BEarly patchy rain  S5CSTATISTICS       
+OL,9,Bin the south       S5C 
+OL,10,Blargely fizzling   S5G   Maximum       
+OL,11,Bout, with the      S5GTemperatureC15C 
+OL,12,Bsunshine in the    S5G                 
+OL,13,Bnorth becoming moreS5G   Minumum       
+OL,14,Bwidespread with    S5GTemperatureC6C 
+OL,15,Btime. Despite the  S5C                 
+OL,16,Bsunshine, a cooler S5G
+OL,17,Bfeeling day for    S5G
+OL,18,Bmost.              S5G                 
+OL,19,B                   S5G
+OL,20,B                   S5G
+OL,21,                                    2/2 
+OL,22,D]GWALES CWeatherG402CTVG600 CTravelG437
+OL,23,D]CSportG390C AddressG170 CMAIN MENUG100
+OL,24,AOutlookB NIrelTravC Trav HeadFMain Menu
+FL,403,437,430,100,8FF,199
